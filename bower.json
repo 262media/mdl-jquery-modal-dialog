@@ -2,9 +2,9 @@
   "name": "mdl-jquery-modal-dialog",
   "main": "mdl-jquery-modal-dialog.js",
   "homepage": "https://github.com/262media/mdl-jquery-modal-dialog",
-  "authors": [
-    "262media <hello@262media.com>"
-  ],
+"authors": [
+  { "name": "Oliver Rennies", "homepage": "https://github.com/oRRs" }
+],
   "description": "mdl dialogs with no need for the still unsuported <dialog> element",
   "keywords": [
     "material",
@@ -13,7 +13,7 @@
     "dialog"
   ],
   "license": "MIT",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
